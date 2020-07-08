@@ -15,7 +15,7 @@ spec.homepage     = "https://github.com/qin-xiaogang/Demo2FriendImages"
 spec.license      = "MIT"
 spec.authors      = { 'Hank-qin' => 'qinxiaogang@aliyun.com' }
 spec.source       = { :git => "https://github.com/qin-xiaogang/Demo2FriendImages.git", :tag => "#{spec.version}" }
-spec.source_files = 'Hank/**/*.{h,m}'
+spec.source_files = 'DemoHank/**/*.{h,m}'
 spec.framework  = "SystemConfiguration"
 spec.platform = :ios
 
